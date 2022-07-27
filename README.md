@@ -12,14 +12,26 @@ docker-compose up
 Get all entries
 GET: localhost:8080/content/
 
+![image](https://user-images.githubusercontent.com/17333/181211658-bbacce39-e1b7-4382-b1dd-b3ae15ad427a.png)
+
+
 Get a specific entry
 GET: localhost:8080/content/{id}
+
+![image](https://user-images.githubusercontent.com/17333/181211628-0a30e28f-f528-4bd3-b3e3-b13063e5aaa8.png)
+
 
 Create new entry 
 POST: localhost:8080/content/
 
+![image](https://user-images.githubusercontent.com/17333/181211542-2f76ea77-17dc-46df-be13-fd9a3caeaef3.png)
+
+
 Delete entry 
 DELETE: localhost:8080/content/{id}
+
+![image](https://user-images.githubusercontent.com/17333/181211694-0b525770-9fd4-40ed-be40-47e125e2d0d9.png)
+
 
 ### Example payload
 
