@@ -59,6 +59,5 @@ DELETE: localhost:8080/content/{id}
     }
 }
 ```
-Data taken from JSON Example
-
-You can throw any valid json data on this one and it will parse correctly. 
+Example data taken from [JSON Example](https://json.org/example.html)
+You can throw any valid JSON data on this one and it will parse correctly.
